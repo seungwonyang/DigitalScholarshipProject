@@ -4,7 +4,7 @@ Biomedical Information Extraction, Event Detection, and Key-Value construction f
 
 # Current Plan
 
-a. Downloading PubMed <\br>
+a. Downloading PubMed <br/>
 b. Survey useful python NLP tools for entity extraction tasks
 c. Dependency parsing with Stanford Core NLP (or alternatives)
 d. Biomedical Event Detection (method will be chosen)
