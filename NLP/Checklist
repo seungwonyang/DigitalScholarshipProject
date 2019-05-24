@@ -1,0 +1,4 @@
+Checklist
+I. Prototype scrips for elementary NLP tasks (tokenization, NER, POS, Depen. Parsing) against biomedical corpra
+II. biomedical standard (SNOMED, ULMS, etc)-based token search
+III. Key-value network dataset generation for the biomedical domain
