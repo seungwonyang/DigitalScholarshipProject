@@ -1,0 +1,48 @@
+1. BioCreative V CDR corpus: Chemical-induced disease relationship
+
+	Format: XML & PubTator text
+	Type: Title & Abstract
+	Annotated: YES. Annotations of chemicals and diseases. 
+	Size: 7.36 MB. 1500 PubMed articles.
+	Non-Normal text contains? Yes: chemical names, numbers and their units.
+	Multi media: No
+	
+	
+	
+2. tmVar corpus:
+
+	Format: XML & PubTator text
+	Type: Title & Abstract
+	Annotated: YES. DNA-level or protein-level mutation mentions.
+	Size: 1.14 MB. 500 PubMed articles.
+	Non-Normal text contains? Yes: DNA, character entity reference (like &gt; and &lt;)
+	Multi media: No
+	
+	 
+3. CTD-Pfizer dataset: Chemical-induced disease relationship
+
+	Format: PubTator text
+	Type: Title & Abstract
+	Annotated: YES. Annotations of chemicals and diseases. 
+	Size: 41.4 MB. 18,410  PubMed articles.
+	Non-Normal text contains? Yes: chemical names, numbers and their units, percent.
+	Multi media: No
+
+4. PubMed Phrases:
+	
+	Format: text
+	Type: Phrase
+	Annotated: No
+	Size: 15.9 MB. 705,915 PubMed Phrases.
+	Non-Normal text contains? chemical names
+	Multi media: No
+	
+
+5. PubMed articles:
+	
+	Format: XML
+	Type: Title
+	Annotated: No
+	Size: 172 MB.
+	Non-Normal text contains? No
+	Multi media: No
