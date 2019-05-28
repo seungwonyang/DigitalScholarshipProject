@@ -50,6 +50,8 @@ https://www.nlm.nih.gov/databases/download/pubmed_medline.html
 BioNLP Workshop
 https://aclweb.org/aclwiki/BioNLP_Workshop
 
+https://sites.google.com/view/mediqa2019
+
 
 # References
 
