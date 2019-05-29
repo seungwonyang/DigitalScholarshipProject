@@ -37,13 +37,17 @@ Open Neural Network Exchange Format
 https://onnx.ai/
 
 
-# Datasets
+# Datasets, Corpra, and Vocabulary standards
 
 BioNLP Datasets
 https://www.ncbi.nlm.nih.gov/research/bionlp/Data/
 
 PubMed Data Download
 https://www.nlm.nih.gov/databases/download/pubmed_medline.html
+
+UMLS/SNOMED CT/etc
+https://www.nlm.nih.gov/research/umls/licensedcontent/downloads.html
+
 
 # Conferences & Workshops
 
