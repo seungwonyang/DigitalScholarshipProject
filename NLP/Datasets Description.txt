@@ -41,8 +41,8 @@
 5. PubMed articles:
 	
 	Format: XML
-	Type: Title
+	Type: Title & Abstract 
 	Annotated: No
-	Size: 172 MB.
+	Size: ? MB.
 	Non-Normal text contains? No
 	Multi media: No
