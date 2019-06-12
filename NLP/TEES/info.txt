@@ -1,0 +1,13 @@
+
+Data set for benchmarking
+
+GE11:
+devel: 259
+test: 347
+train: 908
+
+
+GE13:
+devel: 249
+test: 305
+train: 222
