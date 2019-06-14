@@ -49,7 +49,6 @@ UMLS/SNOMED CT/etc
 https://www.nlm.nih.gov/research/umls/licensedcontent/downloads.html
 
 PDF pubmed:
-
 ftp://ftp.ncbi.nlm.nih.gov/pub/pmc
 
 # Conferences & Workshops
